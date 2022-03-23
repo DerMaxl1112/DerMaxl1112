@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DerMaxl1112
 - 👀 I’m interested in stuff
-- 🌱 I’m currently learning C++ and Pyton
+- 🌱 I’m currently learning C++, Go and Pyton
 - 📫 How to reach me maximilian-hug@gmx.de
 
 <!---
